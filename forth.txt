@@ -1,0 +1,13 @@
+cd ..
+mkdir <file name>
+rmdir <file name>
+cd /d or cd /e
+cd '<file path>'
+
+git status
+git init
+git add <file name>
+git add .   (for all files)
+git commit -m '<commit messsage>'
+git log 
+git checkout <commit id>
